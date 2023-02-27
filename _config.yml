@@ -23,7 +23,7 @@ title: Hackddiction                          # the main title
 
 tagline: Cybersecurity and Ethical Hacking Blog   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description:                         # used by seo meta and the atom feed
   Your Cybersecurity and Ethical Hacking Blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
