@@ -6,6 +6,7 @@ tags: [isaca, reports, employment]
 author: <MH>
 comments: false
 img_path: /assets/img/postimg/isacaemp
+image: report_banner.png
 
 ---
 
@@ -16,7 +17,10 @@ Sí, ya lo sabemos! Hemos vuelto Hackddictos jaja! Y para compensar la larga aus
 
 Pues, nosotros sí! Hace poco nos enteramos que personas que asistieron a las charlas dictadas por nosotros para algunas empresas del sector de hidrocarburos en 2014, actualmente vienen capacitándose en temas relacionados a Seguridad de la Información en ambos enfoques (Ofensivo y Defensivo) y que el desencadenante de su interés por estos temas fue (y nos sentimos orgullosos de eso) la charla impartida en aquella ocasión.
 
-Siguiendo esa misma línea, quisiéramos motivar y animar a más profesionales a seguir el camino de la Seguridad de la Información compartiendo los datos expuestos en un paper publicado recientemente por ISACA: ***State of Cyber Security 2017 Part 1***. Puedes descargar el documento original completo GRATIS dando [click aquí!](https://www.cybersecobservatory.com/wp-content/uploads/2017/06/state-of-cybersecurity-2017_res_eng_0217.pdf) Ahora vamos a lo que nos compete.
+Siguiendo esa misma línea, quisiéramos motivar y animar a más profesionales a seguir el camino de la Seguridad de la Información compartiendo los datos expuestos en un paper publicado recientemente por ISACA: ***State of Cyber Security 2017 Part 1***. 
+
+Puedes descargar el documento original completo GRATIS dando [click aquí!](https://www.cybersecobservatory.com/wp-content/uploads/2017/06/state-of-cybersecurity-2017_res_eng_0217.pdf) 
+Ahora vamos a lo que nos compete.
 
 ![](report_banner.png)
 
@@ -29,3 +33,8 @@ De acuerdo a los resultados obtenidos por ISACA en su encuesta global y presenta
 El paper presenta como uno de los hallazgos clave que actualmente existe una necesidad fuerte y creciente de profesionales especializados en Ciberseguridad por parte de las empresas pero (aquí viene uno de los problemas) estas consideran que la oferta de profesionales no es alta y tampoco la adecuada para cubrir posiciones clave dentro de sus organizaciones. No hace falta decir que ISACA se tomó el trabajo de aterrizar esto en números:
 
 ![Fuente: ISACA State of Cyber Security 2017, Página 7](figura3.png)
+*Fuente: ISACA State of Cyber Security 2017, Página 7*
+
+En la **Figura 3** se puede observar que el 27% de encuestados considera que sus organizaciones no son capaces de cubrir las plazas laborales relacionadas a Ciberseguridad / Seguridad de la Información.
+
+Por otro lado, al ser consultados por la cantidad de tiempo que tardan en cubrir las plazas laborales de Ciberseguridad / Seguridad de la Información dentro de sus organizaciones se observó lo siguiente:
