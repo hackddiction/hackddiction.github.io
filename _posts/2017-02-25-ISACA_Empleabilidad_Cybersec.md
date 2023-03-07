@@ -20,5 +20,12 @@ Siguiendo esa misma línea, quisiéramos motivar y animar a más profesionales a
 
 ![](report_banner.png)
 
-## titulo 1
-texto de prueba
+# Quiero postular a una plaza en Ciberseguridad: ¿Cuales son las necesidades de la industria?
+
+¿Acabas de graduarte o ya tienes experiencia en otros rubros pero quieres darle un giro a tu carrera y no sabes cómo hacerlo? Pues, tenemos una gran noticia para ti!
+
+De acuerdo a los resultados obtenidos por ISACA en su encuesta global y presentados en la primera parte del paper ***State of Cyber Security 2017***, existe una gran oportunidad laboral para los profesionales que desean orientar su carrera a la Ciberseguridad, Seguridad Informática y Seguridad de la Información.
+
+El paper presenta como uno de los hallazgos clave que actualmente existe una necesidad fuerte y creciente de profesionales especializados en Ciberseguridad por parte de las empresas pero (aquí viene uno de los problemas) estas consideran que la oferta de profesionales no es alta y tampoco la adecuada para cubrir posiciones clave dentro de sus organizaciones. No hace falta decir que ISACA se tomó el trabajo de aterrizar esto en números:
+
+![Fuente: ISACA State of Cyber Security 2017, Página 7](figura3.png)
