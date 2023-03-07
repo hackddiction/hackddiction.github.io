@@ -6,7 +6,7 @@ tags: [isaca, reports, employment]
 author: <MH>
 comments: false
 img_path: /assets/img/postimg/isacaemp
-#image: report_banner.png
+image: report_banner.png
 
 ---
 
