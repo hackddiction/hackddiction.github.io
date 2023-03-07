@@ -10,7 +10,7 @@ comments: false
 
 Sí, ya lo sabemos! Hemos vuelto Hackddictos jaja! Y para compensar la larga ausencia queremos compartir con ustedes algunos datos interesantes que hemos recopilado recientemente pero primero les planteamos la siguiente pregunta:
 
-```{terminal}
+```{shell}
 ¿Han recibido alguna vez miradas absortas de colegas al momento de hablar sobre temas de Seguridad de la Información y EH, como si se tratase de una ciencia oculta o un tabú dentro de la Ingeniería Informática y de Sistemas?
 ```
 
