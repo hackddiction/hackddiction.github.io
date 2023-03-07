@@ -59,7 +59,7 @@ En ese sentido, gran parte de las organizaciones solicitan como requisito que lo
 
 # Quiero dedicarme a la Ciberseguridad: Entonces… ¿Qué debo hacer?
 
-Creemos que ya saben que hacer Hackddictos! Para lograr una carrera dentro del mundo de la Ciberseguridad necesitan satisfacer las necesidades de la industria y para lograrlo requieren de dos cosas (al menos por ahora): Obtener certificaciones y habilidades técnicas relacionadas al campo de la Ciberseguridad / Seguridad de la Información. Ambas cualidades les proporcionarán un mayor entendimiento del negocio de la Ciberseguridad y en consecuencia serán mucho más atractivos para sus futuros empleadores!
+Creemos que ya saben que hacer Hackddictos! Para lograr una carrera dentro del mundo de la Ciberseguridad necesitan satisfacer las necesidades de la industria y para lograrlo requieren de dos cosas (al menos por ahora): **Obtener certificaciones y habilidades técnicas relacionadas al campo de la Ciberseguridad / Seguridad de la Información**. Ambas cualidades les proporcionarán un mayor entendimiento del negocio de la Ciberseguridad y en consecuencia serán mucho más atractivos para sus futuros empleadores!
 
 Si se capacitan lo suficiente y para entonces la demanda sigue siendo mayor que la inestable oferta de profesionales de Ciberseguridad / Seguridad de la Información, estamos seguros que lograrán su objetivo!
 
