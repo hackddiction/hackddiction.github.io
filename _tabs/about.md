@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Hackddiction_Banner](/assets/img/postimg/aboutimghackddiction_banner.png)
+![Hackddiction_Banner](/assets/img/postimg/aboutimg/hackddiction_banner.png)
 
 Hackddiction es una iniciativa independiente de investigación enfocada en la Ciberseguridad y Ethical hacking. 
 
