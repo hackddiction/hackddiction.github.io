@@ -3,8 +3,10 @@
 icon: fas fa-info-circle
 order: 4
 img_path: /assets/img/postimg/aboutimg
-image: hackddiction_banner.png
+
 ---
+
+![Hackddiction_Banner](hackddiction_banner.png)
 
 Hackddiction es una iniciativa independiente de investigación enfocada en la Ciberseguridad y Ethical hacking. 
 
@@ -12,5 +14,8 @@ Hackddiction es una iniciativa independiente de investigación enfocada en la Ci
 
 Nos puedes seguir en YouTube, Twitch, Facebook e Instagram.
 
+---
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
+
+---
