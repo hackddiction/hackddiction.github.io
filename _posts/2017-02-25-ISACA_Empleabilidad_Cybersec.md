@@ -11,11 +11,9 @@ img_path: /assets/img/postimg/isacaemp
 
 Sí, ya lo sabemos! Hemos vuelto Hackddictos jaja! Y para compensar la larga ausencia queremos compartir con ustedes algunos datos interesantes que hemos recopilado recientemente pero primero les planteamos la siguiente pregunta:
 \
-\
 
 >
 *¿Han recibido alguna vez miradas absortas de colegas al momento de hablar sobre temas de Seguridad de la Información y EH, como si se tratase de una ciencia oculta o un tabú dentro de la Ingeniería Informática y de Sistemas?*
-\
 \
 
 Pues, nosotros sí! Hace poco nos enteramos que personas que asistieron a las charlas dictadas por nosotros para algunas empresas del sector de hidrocarburos en 2014, actualmente vienen capacitándose en temas relacionados a Seguridad de la Información en ambos enfoques (Ofensivo y Defensivo) y que el desencadenante de su interés por estos temas fue (y nos sentimos orgullosos de eso) la charla impartida en aquella ocasión.
