@@ -18,7 +18,7 @@ Existen niveles de criticidad en las vulnerabilidades asociadas a sistemas de in
 
 Siempre un atacante buscara entrar por el lado más desprotegido o poco controlado dentro de una organización, por ejemplo el factor humano. Entonces, en términos de credenciales, los usuarios siempre van a preferir utilizar contraseñas fáciles de recordar, simples o asociadas a algún evento o vivencia importante como un cumpleaños o el nombre de sus hijos. En otros casos utilizan contraseñas secuenciales como “Abril 2014++”, “Mayo2014++” y así sucesivamente.
 
-CRASO ERROR! Ese tipo de contraseñas son fáciles de romper mediante algoritmos de fuerza bruta, utilización de diccionarios o mecanismos híbridos. Utilizar este tipo de contraseñas compromete en un nivel muy alto la información manejada por el usuario. Hay que tener presente que si se trata de un usuario clave en la organización, la información que maneja puede ser muy sensible. Contraseñas de servidores, accesos a base de datos y estrategias comerciales son algunos ejemplos.
+**CRASO ERROR!** Ese tipo de contraseñas son fáciles de romper mediante algoritmos de fuerza bruta, utilización de diccionarios o mecanismos híbridos. Utilizar este tipo de contraseñas compromete en un nivel muy alto la información manejada por el usuario. Hay que tener presente que si se trata de un usuario clave en la organización, la información que maneja puede ser muy sensible. Contraseñas de servidores, accesos a base de datos y estrategias comerciales son algunos ejemplos.
 
 > Mientras tu contraseña sea lo más compleja posible y no guarde relación con asuntos personales, el riesgo de romperla disminuirá.
 {: .prompt-tip }
