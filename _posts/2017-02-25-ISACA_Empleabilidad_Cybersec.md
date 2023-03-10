@@ -7,7 +7,7 @@ author: <MH>
 comments: false
 img_path: /assets/img/postimg/isacaemp
 image: report_banner.png
-
+lang-ref: empleabilidad
 ---
 
 Sí, ya lo sabemos! Hemos vuelto Hackddictos jaja! Y para compensar la larga ausencia queremos compartir con ustedes algunos datos interesantes que hemos recopilado recientemente pero primero les planteamos la siguiente pregunta:

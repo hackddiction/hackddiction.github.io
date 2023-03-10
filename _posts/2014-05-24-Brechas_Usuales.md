@@ -7,7 +7,7 @@ author: <MH>
 comments: false
 img_path: /assets/img/postimg/brechas
 image: SecurityBreach.jpg
-
+lang-ref: brechas
 ---
 
 Como ya han de saber, las vulnerabilidades siempre están presentes dentro de las organizaciones y si no son analizadas o controladas de alguna forma antes de ser explotadas, podrían representar un grave peligro para los activos de información propios de la organización comprometida.
