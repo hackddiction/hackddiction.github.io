@@ -1,13 +1,14 @@
 ---
 title: "ISACA State of Cyber Security: Empleabilidad en el Campo de la Ciberseguridad"
 date: 2017-02-25
-categories: [Cybersecurity, Reports]
-tags: [isaca, reports, employment]
+categories: [Cybersecurity, Employment]
+tags: [isaca, reports, employment, cybersecurity]
 author: <MH>
 comments: false
 img_path: /assets/img/postimg/isacaemp
 image: report_banner.png
-
+lang: es
+lang-ref: empleabilidad
 ---
 
 Sí, ya lo sabemos! Hemos vuelto Hackddictos jaja! Y para compensar la larga ausencia queremos compartir con ustedes algunos datos interesantes que hemos recopilado recientemente pero primero les planteamos la siguiente pregunta:
@@ -23,7 +24,7 @@ Puedes descargar el documento original completo GRATIS dando [click aquí!](http
 
 Ahora vamos a lo que nos compete!
 
-# Quiero postular a una plaza en Ciberseguridad: ¿Cuales son las necesidades de la industria?
+## Quiero Postular a Una Plaza en Ciberseguridad: ¿Cuales Son las Necesidades de la Industria?
 
 ¿Acabas de graduarte o ya tienes experiencia en otros rubros pero quieres darle un giro a tu carrera y no sabes cómo hacerlo? Pues, tenemos una gran noticia para ti!
 
@@ -57,7 +58,7 @@ En ese sentido, gran parte de las organizaciones solicitan como requisito que lo
 ![Figura 9](figura9.png)
 *Fuente: ISACA State of Cyber Security 2017, Página 13*
 
-# Quiero dedicarme a la Ciberseguridad: Entonces… ¿Qué debo hacer?
+## Quiero Dedicarme a la Ciberseguridad: Entonces… ¿Qué Debo Hacer?
 
 Creemos que ya saben que hacer Hackddictos! Para lograr una carrera dentro del mundo de la Ciberseguridad necesitan satisfacer las necesidades de la industria y para lograrlo requieren de dos cosas (al menos por ahora): **Obtener certificaciones y habilidades técnicas relacionadas al campo de la Ciberseguridad / Seguridad de la Información**. Ambas cualidades les proporcionarán un mayor entendimiento del negocio de la Ciberseguridad y en consecuencia serán mucho más atractivos para sus futuros empleadores!
 
