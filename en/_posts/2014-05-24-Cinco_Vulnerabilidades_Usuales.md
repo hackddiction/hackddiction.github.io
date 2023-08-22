@@ -46,7 +46,7 @@ In reality, an attacker would not hesitate to search Google for the types of vul
 
 **The same thing happens for uncontrolled exceptions**, if one emits an ORA error message, we immediately know that an Oracle DBMS is being used and if it is a weak application we could begin with simple SQL injection tests.
 
-> One must be very careful with the information that is disseminated towards the Internet, you never know who is on the other side.
+> People must be very careful with the information that is disseminated towards the Internet, you never know who is on the other side.
 {: .prompt-tip }
 
 ## Vulnerability 3: Unpatched Systems
