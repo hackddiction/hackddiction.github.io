@@ -19,7 +19,7 @@ Fuente: https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain
 
 ## Etapa 1: Reconocimiento
 
-La primera fase, el reconocimiento, implica la recopilación de información sobre el objetivo. Esta etapa es similar a un atacante investigando un lugar físico antes de planificar un robo. Aquí, **los ciber-delincuentes recopilan datos** sobre la infraestructura del objetivo, su personal y vulnerabilidades. Esto puede incluir la utilización de fuentes de información pública (OSINT), enumeración de sistemas de nombres de dominio (DNS) y técnicas de ingeniería social. Los equipos de seguridad pueden contrarrestar esta fase monitoreando fuentes públicas de información relacionadas a la organización.
+La primera fase, el Reconocimiento, implica la recopilación de información sobre el objetivo. Esta etapa es similar a un atacante investigando un lugar físico antes de planificar un robo. Aquí, **los ciber-delincuentes recopilan datos** sobre la infraestructura del objetivo, su personal y vulnerabilidades. Esto puede incluir la utilización de fuentes de información pública (OSINT), enumeración de sistemas de nombres de dominio (DNS) y técnicas de ingeniería social. Los equipos de seguridad pueden contrarrestar esta fase monitoreando fuentes públicas de información relacionadas a la organización.
 
 ![Figura 2](1.jpg)
 *OSINT.
@@ -27,7 +27,7 @@ Fuente: Google*
 
 ## Etapa 2: Armamento
 
-En la fase de armamento, el atacante **crea un *payload* malicioso**, a menudo en forma de malware, para explotar una vulnerabilidad descubierta durante el reconocimiento. Este *payload* se elabora para **evadir la detección**. Es crucial para las organizaciones mantenerse actualizadas en cuanto a parches de seguridad y proteger dispositivos finales para mitigar los riesgos asociados con esta etapa. [Puedes encontrar un articulo completo sobre malware aquí!](https://hackddiction.github.io/es/cybersecurity/general%20concepts/2023/08/22/Hablemos_Sobre_Malware.html)
+En la fase de Armamento, el atacante **crea un *payload* malicioso**, a menudo en forma de malware, para explotar una vulnerabilidad descubierta durante el reconocimiento. Este *payload* se elabora para **evadir la detección**. Es crucial para las organizaciones mantenerse actualizadas en cuanto a parches de seguridad y proteger dispositivos finales para mitigar los riesgos asociados con esta etapa. [Puedes encontrar un articulo completo sobre malware aquí!](https://hackddiction.github.io/es/cybersecurity/general%20concepts/2023/08/22/Hablemos_Sobre_Malware.html)
 
 ![Figura 3](2.jpg)
 *Malware.
@@ -35,7 +35,7 @@ Fuente: Google*
 
 ## Etapa 3: Entrega
 
-La fase de entrega implica la **transmisión del *payload* malicioso** al objetivo. Esto puede ocurrir a través de **varios canales**, incluidos correos electrónicos, sitios web o incluso medios físicos. Los atacantes pueden emplear técnicas como correos electrónicos de phishing o descargas involuntarias. Implementar filtrado de correos electrónicos, filtrado web y concientizar a los empleados sobre hábitos seguros de navegación son defensas esenciales contra esta fase.
+La fase de Entrega implica la **transmisión del *payload* malicioso** al objetivo. Esto puede ocurrir a través de **varios canales**, incluidos correos electrónicos, sitios web o incluso medios físicos. Los atacantes pueden emplear técnicas como correos electrónicos de phishing o descargas involuntarias. Implementar filtrado de correos electrónicos, filtrado web y concientizar a los empleados sobre hábitos seguros de navegación son defensas esenciales contra esta fase.
 
 ![Figura 4](3.jpg)
 *Correos Maliciosos.
@@ -43,7 +43,7 @@ Fuente: Google*
 
 ## Etapa 4: Explotación
 
-Una vez que el *payload* llega al sistema objetivo, comienza la fase de explotación. El **malware ejecuta su código**, aprovechando la vulnerabilidad para la que fue diseñado. La aplicación oportuna de parches de seguridad, evaluaciones de vulnerabilidad regulares y la segmentación de redes son medidas clave para frustrar intentos de explotación.
+Una vez que el *payload* llega al sistema objetivo, comienza la fase de Explotación. El **malware ejecuta su código**, aprovechando la vulnerabilidad para la que fue diseñado. La aplicación oportuna de parches de seguridad, evaluaciones de vulnerabilidad regulares y la segmentación de redes son medidas clave para frustrar intentos de explotación.
 
 ![Figura 5](4.jpg)
 *Código Arbitrario.
@@ -51,7 +51,7 @@ Fuente: Google*
 
 ## Etapa 5: Instalación
 
-En la fase de instalación, el atacante **establece una presencia persistente** dentro del sistema comprometido. Esto puede implicar la instalación de puertas traseras, rootkits u otras técnicas sigilosas. Emplear mecanismos de autenticación sólidos, monitorear la actividad anómala y llevar a cabo auditorías de seguridad regulares puede ayudar a detectar y mitigar instalaciones no autorizadas.
+En la fase de Instalación, el atacante **establece una presencia persistente** dentro del sistema comprometido. Esto puede implicar la instalación de puertas traseras, rootkits u otras técnicas sigilosas. Emplear mecanismos de autenticación sólidos, monitorear la actividad anómala y llevar a cabo auditorías de seguridad regulares puede ayudar a detectar y mitigar instalaciones no autorizadas.
 
 ![Figura 6](5.jpg)
 *Puertas Traseras.
