@@ -6,7 +6,7 @@ tags: [Threat Intelligence, cyberSec101, cybersecurity]
 author: <MH>
 comments: false
 img_path: /assets/img/postimg/threatintell
-image: banner.jpg
+image: banner2.jpg
 lang: es
 lang-ref: threatintell
 ---
